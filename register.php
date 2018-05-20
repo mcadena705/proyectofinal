@@ -9,7 +9,7 @@ if(isset($_POST["register"])){
 
 if(!empty($_POST['usuario']) && !empty($_POST['nombre_usuario']) && !empty($_POST['password'])) {
 	
-	$server = "172.30.13.23";
+	$server = "172.30.86.130";
 		$user = "user";
 		$pass = "password";
 		$bd = "practica";
