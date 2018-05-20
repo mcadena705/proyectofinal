@@ -9,7 +9,7 @@
 //echo "<div class='container mregister'>";
 //if(!empty($_POST['duracion_llamada'])) {
 	
-	$server = "172.30.13.23";
+	$server = "172.30.86.130";
 		$user = "user";
 		$pass = "password";
 		$bd = "practica";
